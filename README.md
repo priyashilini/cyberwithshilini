@@ -1,4 +1,4 @@
-# cyberwithshilini
+# cyber with shilini
 A personal log of cybersecurity learning — from basics to experiments
 
 # Cyber Tips for Beginners 🛡️
